@@ -1,0 +1,66 @@
+
+/* Class = "UILabel"; text = "31/12/2000"; ObjectID = "9ay-mi-X6O"; */
+"9ay-mi-X6O.text" = "31/12/2000";
+
+/* Class = "UILabel"; text = "#"; ObjectID = "A8w-Oe-D6A"; */
+"A8w-Oe-D6A.text" = "#";
+
+/* Class = "UILabel"; text = "#"; ObjectID = "B4A-aM-yU3"; */
+"B4A-aM-yU3.text" = "#";
+
+/* Class = "UITabBarItem"; title = "Internalización"; ObjectID = "Bap-l4-VFm"; */
+"Bap-l4-VFm.title" = "Internalización";
+
+/* Class = "UILabel"; text = "Name:"; ObjectID = "EuP-CU-6qc"; */
+"EuP-CU-6qc.text" = "Name:";
+
+/* Class = "UITabBarItem"; title = "Touch ID"; ObjectID = "GUb-oZ-fR4"; */
+"GUb-oZ-fR4.title" = "Touch ID";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "M5s-Ys-w1D"; */
+"M5s-Ys-w1D.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UITabBarItem"; title = "Play Music"; ObjectID = "OgD-Du-r9v"; */
+"OgD-Du-r9v.title" = "Play Music";
+
+/* Class = "UIButton"; normalTitle = ":-)"; ObjectID = "OzJ-SA-2PW"; */
+"OzJ-SA-2PW.normalTitle" = ":-)";
+
+/* Class = "UILabel"; text = "ha posteado hace"; ObjectID = "ZMa-9z-xcD"; */
+"ZMa-9z-xcD.text" = "ha posteado hace";
+
+/* Class = "UILabel"; text = "#"; ObjectID = "aV7-qX-hgM"; */
+"aV7-qX-hgM.text" = "#";
+
+/* Class = "UILabel"; text = "#"; ObjectID = "b1l-a7-sEJ"; */
+"b1l-a7-sEJ.text" = "#";
+
+/* Class = "UITabBarItem"; title = "Social Network"; ObjectID = "cyD-mp-X0S"; */
+"cyD-mp-X0S.title" = "Social Network";
+
+/* Class = "UILabel"; text = "1 H"; ObjectID = "du1-Kx-caS"; */
+"du1-Kx-caS.text" = "1 H";
+
+/* Class = "UILabel"; text = "Image"; ObjectID = "duR-Nt-c57"; */
+"duR-Nt-c57.text" = "Image";
+
+/* Class = "UILabel"; text = "Number:"; ObjectID = "fs0-o1-4SI"; */
+"fs0-o1-4SI.text" = "Number:";
+
+/* Class = "UILabel"; text = "ha publicado hace:"; ObjectID = "gmG-hr-QEf"; */
+"gmG-hr-QEf.text" = "ha publicado hace:";
+
+/* Class = "UILabel"; text = "#"; ObjectID = "i9Q-3w-ue2"; */
+"i9Q-3w-ue2.text" = "#";
+
+/* Class = "UILabel"; text = "LastName:"; ObjectID = "mgM-dx-AQ8"; */
+"mgM-dx-AQ8.text" = "LastName:";
+
+/* Class = "UILabel"; text = "Currency:"; ObjectID = "oT0-3c-Gc5"; */
+"oT0-3c-Gc5.text" = "Currency:";
+
+/* Class = "UILabel"; text = "Date:"; ObjectID = "tlR-bB-k3N"; */
+"tlR-bB-k3N.text" = "Date:";
+
+/* Class = "UILabel"; text = "Gustavo"; ObjectID = "zHl-qx-F0g"; */
+"zHl-qx-F0g.text" = "Gustavo";

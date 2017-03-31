@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  App_SocialNetwork
+
+  Created by cice on 31/3/17.
+  Copyright © 2017 cice. All rights reserved.
+*/
+
+GOOD_MORNING = "Good Morning";
+TITLE_DATA = "This is an Alert VC title in English";
+MESSAGE_DATA = "We are in iOS class in English";

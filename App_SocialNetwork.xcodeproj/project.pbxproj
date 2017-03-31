@@ -8,20 +8,40 @@
 
 /* Begin PBXBuildFile section */
 		09CEA8AE1E8EC06F00E4452D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09CEA8AD1E8EC06F00E4452D /* AppDelegate.swift */; };
-		09CEA8B01E8EC06F00E4452D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09CEA8AF1E8EC06F00E4452D /* ViewController.swift */; };
 		09CEA8B31E8EC06F00E4452D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 09CEA8B11E8EC06F00E4452D /* Main.storyboard */; };
 		09CEA8B51E8EC06F00E4452D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 09CEA8B41E8EC06F00E4452D /* Assets.xcassets */; };
 		09CEA8B81E8EC06F00E4452D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 09CEA8B61E8EC06F00E4452D /* LaunchScreen.storyboard */; };
+		09CEA8C01E8EC97000E4452D /* SNPostSocialNetworkViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09CEA8BF1E8EC97000E4452D /* SNPostSocialNetworkViewController.swift */; };
+		09CEA8C21E8EC98100E4452D /* SNTouchIDViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09CEA8C11E8EC98100E4452D /* SNTouchIDViewController.swift */; };
+		09CEA8C41E8EC9A000E4452D /* SNInternacionalizacionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09CEA8C31E8EC9A000E4452D /* SNInternacionalizacionViewController.swift */; };
+		09CEA8C61E8EC9AE00E4452D /* SNPlayMusicViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09CEA8C51E8EC9AE00E4452D /* SNPlayMusicViewController.swift */; };
+		09CEA8C81E8ECE5C00E4452D /* APIHELPERS.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09CEA8C71E8ECE5C00E4452D /* APIHELPERS.swift */; };
+		09CEA8CD1E8EDF5F00E4452D /* hola.png in Resources */ = {isa = PBXBuildFile; fileRef = 09CEA8CF1E8EDF5F00E4452D /* hola.png */; };
+		09CEA8D71E8EE2CE00E4452D /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 09CEA8D91E8EE2CE00E4452D /* Localizable.strings */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		09CEA8AA1E8EC06F00E4452D /* App_SocialNetwork.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = App_SocialNetwork.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		09CEA8AD1E8EC06F00E4452D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		09CEA8AF1E8EC06F00E4452D /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		09CEA8B21E8EC06F00E4452D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		09CEA8B41E8EC06F00E4452D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		09CEA8B71E8EC06F00E4452D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		09CEA8B91E8EC06F00E4452D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		09CEA8BF1E8EC97000E4452D /* SNPostSocialNetworkViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SNPostSocialNetworkViewController.swift; sourceTree = "<group>"; };
+		09CEA8C11E8EC98100E4452D /* SNTouchIDViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SNTouchIDViewController.swift; sourceTree = "<group>"; };
+		09CEA8C31E8EC9A000E4452D /* SNInternacionalizacionViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SNInternacionalizacionViewController.swift; sourceTree = "<group>"; };
+		09CEA8C51E8EC9AE00E4452D /* SNPlayMusicViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SNPlayMusicViewController.swift; sourceTree = "<group>"; };
+		09CEA8C71E8ECE5C00E4452D /* APIHELPERS.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = APIHELPERS.swift; sourceTree = "<group>"; };
+		09CEA8C91E8EDCFE00E4452D /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/Main.strings; sourceTree = "<group>"; };
+		09CEA8CA1E8EDCFE00E4452D /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
+		09CEA8CE1E8EDF5F00E4452D /* es */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = es; path = es.lproj/hola.png; sourceTree = "<group>"; };
+		09CEA8D01E8EDF6200E4452D /* en */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = en; path = en.lproj/hola.png; sourceTree = "<group>"; };
+		09CEA8D11E8EE0B400E4452D /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fr; path = fr.lproj/Main.strings; sourceTree = "<group>"; };
+		09CEA8D21E8EE0B400E4452D /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fr; path = fr.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
+		09CEA8D31E8EE0B400E4452D /* fr */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = fr; path = fr.lproj/hola.png; sourceTree = "<group>"; };
+		09CEA8D81E8EE2CE00E4452D /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fr; path = fr.lproj/Localizable.strings; sourceTree = "<group>"; };
+		09CEA8DA1E8EE2D000E4452D /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/Localizable.strings; sourceTree = "<group>"; };
+		09CEA8DB1E8EE2D100E4452D /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,14 +74,28 @@
 		09CEA8AC1E8EC06F00E4452D /* App_SocialNetwork */ = {
 			isa = PBXGroup;
 			children = (
+				09CEA8CF1E8EDF5F00E4452D /* hola.png */,
 				09CEA8AD1E8EC06F00E4452D /* AppDelegate.swift */,
-				09CEA8AF1E8EC06F00E4452D /* ViewController.swift */,
+				09CEA8C71E8ECE5C00E4452D /* APIHELPERS.swift */,
+				09CEA8D41E8EE29D00E4452D /* VIEWS_CONTROLLERS */,
 				09CEA8B11E8EC06F00E4452D /* Main.storyboard */,
 				09CEA8B41E8EC06F00E4452D /* Assets.xcassets */,
 				09CEA8B61E8EC06F00E4452D /* LaunchScreen.storyboard */,
 				09CEA8B91E8EC06F00E4452D /* Info.plist */,
 			);
 			path = App_SocialNetwork;
+			sourceTree = "<group>";
+		};
+		09CEA8D41E8EE29D00E4452D /* VIEWS_CONTROLLERS */ = {
+			isa = PBXGroup;
+			children = (
+				09CEA8BF1E8EC97000E4452D /* SNPostSocialNetworkViewController.swift */,
+				09CEA8C11E8EC98100E4452D /* SNTouchIDViewController.swift */,
+				09CEA8C31E8EC9A000E4452D /* SNInternacionalizacionViewController.swift */,
+				09CEA8C51E8EC9AE00E4452D /* SNPlayMusicViewController.swift */,
+				09CEA8D91E8EE2CE00E4452D /* Localizable.strings */,
+			);
+			name = VIEWS_CONTROLLERS;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -107,6 +141,8 @@
 			knownRegions = (
 				en,
 				Base,
+				fr,
+				es,
 			);
 			mainGroup = 09CEA8A11E8EC06E00E4452D;
 			productRefGroup = 09CEA8AB1E8EC06F00E4452D /* Products */;
@@ -123,9 +159,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				09CEA8D71E8EE2CE00E4452D /* Localizable.strings in Resources */,
 				09CEA8B81E8EC06F00E4452D /* LaunchScreen.storyboard in Resources */,
 				09CEA8B51E8EC06F00E4452D /* Assets.xcassets in Resources */,
 				09CEA8B31E8EC06F00E4452D /* Main.storyboard in Resources */,
+				09CEA8CD1E8EDF5F00E4452D /* hola.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -136,8 +174,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				09CEA8B01E8EC06F00E4452D /* ViewController.swift in Sources */,
+				09CEA8C81E8ECE5C00E4452D /* APIHELPERS.swift in Sources */,
+				09CEA8C21E8EC98100E4452D /* SNTouchIDViewController.swift in Sources */,
+				09CEA8C41E8EC9A000E4452D /* SNInternacionalizacionViewController.swift in Sources */,
+				09CEA8C61E8EC9AE00E4452D /* SNPlayMusicViewController.swift in Sources */,
 				09CEA8AE1E8EC06F00E4452D /* AppDelegate.swift in Sources */,
+				09CEA8C01E8EC97000E4452D /* SNPostSocialNetworkViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -148,6 +190,8 @@
 			isa = PBXVariantGroup;
 			children = (
 				09CEA8B21E8EC06F00E4452D /* Base */,
+				09CEA8C91E8EDCFE00E4452D /* es */,
+				09CEA8D11E8EE0B400E4452D /* fr */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
@@ -156,8 +200,30 @@
 			isa = PBXVariantGroup;
 			children = (
 				09CEA8B71E8EC06F00E4452D /* Base */,
+				09CEA8CA1E8EDCFE00E4452D /* es */,
+				09CEA8D21E8EE0B400E4452D /* fr */,
 			);
 			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		09CEA8CF1E8EDF5F00E4452D /* hola.png */ = {
+			isa = PBXVariantGroup;
+			children = (
+				09CEA8CE1E8EDF5F00E4452D /* es */,
+				09CEA8D01E8EDF6200E4452D /* en */,
+				09CEA8D31E8EE0B400E4452D /* fr */,
+			);
+			name = hola.png;
+			sourceTree = "<group>";
+		};
+		09CEA8D91E8EE2CE00E4452D /* Localizable.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				09CEA8D81E8EE2CE00E4452D /* fr */,
+				09CEA8DA1E8EE2D000E4452D /* es */,
+				09CEA8DB1E8EE2D100E4452D /* en */,
+			);
+			name = Localizable.strings;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -167,6 +233,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
 				CLANG_CXX_LIBRARY = "libc++";
@@ -216,6 +283,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
 				CLANG_CXX_LIBRARY = "libc++";
